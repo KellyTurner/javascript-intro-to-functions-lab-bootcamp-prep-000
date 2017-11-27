@@ -11,8 +11,8 @@ function logShout(string) {
   console.log('HELLO')
 }
 function sayHiToGrandma(string) {
-  string.toUpperCase() === 'HI, GRANDMA'
-  return "I can't hear you!"
+  string.toUpperCase() === uppercase
+  return "I love you, too"
 }
 function sayHiToGrandma(string) {
   string.toLowerCase() === 'hi, grandma'
